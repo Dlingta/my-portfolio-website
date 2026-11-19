@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Build & Framework Outputs
+dist/
+build/
+.next/
+.cache/
+.vite/
+coverage/
+
+# Local Environment Variables
+.env
+.env*
+!.env.example
+
+# Workspace / OS / Logs
+.aistudio/
+.DS_Store
+Thumbs.db
+*.log
+
